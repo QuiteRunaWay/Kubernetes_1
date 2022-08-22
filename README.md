@@ -39,6 +39,9 @@
 
 - развернуть через Minikube тестовое приложение по [туториалу](https://kubernetes.io/ru/docs/tutorials/hello-minikube/#%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-minikube)
 
+  ![image](https://user-images.githubusercontent.com/92969676/185922744-704459a6-adfa-4e9c-b977-93e31c388e35.png)
+
+ 
 - установить аддоны ingress и dashboard
 
 ![image](https://user-images.githubusercontent.com/92969676/185908883-3bbf5540-5e90-4abe-8cfb-f80b83e6a6c7.png)
@@ -51,6 +54,11 @@
 - подключиться к minikube 
 - проверить работу приложения из задания 2, запустив port-forward до кластера
 
+  
+  
+  ![image](https://user-images.githubusercontent.com/92969676/185923611-9e859174-7c45-40b9-af10-43fd1b21f77e.png)
+
+  
 ## Задача 4 (*): собрать через ansible (необязательное)
 
 Профессионалы не делают одну и ту же задачу два раза. Давайте закрепим полученные навыки, автоматизировав выполнение заданий  ansible-скриптами. При выполнении задания обратите внимание на доступные модули для k8s под ansible.
