@@ -44,7 +44,7 @@
  
 - установить аддоны ingress и dashboard
 
-![image](https://user-images.githubusercontent.com/92969676/185908883-3bbf5540-5e90-4abe-8cfb-f80b83e6a6c7.png)
+![image](https://user-images.githubusercontent.com/92969676/185925721-1b746e01-4578-4c0a-a6dd-3670aba71638.png)
 
   
   
