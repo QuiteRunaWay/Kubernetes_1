@@ -30,13 +30,18 @@
 
 **Важно**: t3.small не входит во free tier, следите за бюджетом аккаунта и удаляйте виртуалку.
 
+### Ответ: Minikube установлен. Установка проводилась на локальной машине (через AWS даже не пробовал, в дальнешем буду работать через с Yandex Cloud, если понадобится):
+ 
+![image](https://user-images.githubusercontent.com/92969676/185909443-5c7d4558-c2b3-48b3-b770-8bd248dde21e.png)
+
 ## Задача 2: Запуск Hello World
 После установки Minikube требуется его проверить. Для этого подойдет стандартное приложение hello world. А для доступа к нему потребуется ingress.
 
 - развернуть через Minikube тестовое приложение по [туториалу](https://kubernetes.io/ru/docs/tutorials/hello-minikube/#%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B0-minikube)
+
 - установить аддоны ingress и dashboard
 
-  ![image](https://user-images.githubusercontent.com/92969676/185908883-3bbf5540-5e90-4abe-8cfb-f80b83e6a6c7.png)
+![image](https://user-images.githubusercontent.com/92969676/185908883-3bbf5540-5e90-4abe-8cfb-f80b83e6a6c7.png)
 
   
   
